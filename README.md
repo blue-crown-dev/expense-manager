@@ -27,7 +27,7 @@ npm start
 
 ## Deployment
 
-Add additional notes to deploy this on a live system
+The project is available to use at [this link](https://manage-spend.netlify.app/)
 
 ## Built With
 
